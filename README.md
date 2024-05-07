@@ -1,1 +1,1 @@
-# Tesla_GameStop_Stock_Data
+# Analyzing Historical Stock/Revenue Data (Tesla - GameStop)
